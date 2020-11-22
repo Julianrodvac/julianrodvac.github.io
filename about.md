@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+Don´t be hesitate to write me, if you are looking for more information!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Don´t be hesitate to write me, if you are looking for more information!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:julianrodvac@gmail.com)
