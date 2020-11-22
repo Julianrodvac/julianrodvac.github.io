@@ -12,4 +12,4 @@ Don´t be hesitate to write me, if you are looking for more information!
 
 ### Contact me
 
-[email@domain.com](mailto:julianrodvac@gmail.com)
+[julianrodvac@gmail.com](mailto:julianrodvac@gmail.com)
