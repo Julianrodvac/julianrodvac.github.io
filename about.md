@@ -6,10 +6,10 @@ permalink: /about/
 
 Don´t be hesitate to write me, if you are looking for more information!
 
-### More Information
+### More Information:
 
 Pleas, contact me if you are looking for more information.
 
-### Contact me
+### Contact me:
 
 [julianrodvac@gmail.com](mailto:julianrodvac@gmail.com)
