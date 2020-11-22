@@ -9,8 +9,8 @@ I´ve made several dashboards with R, such as the following about COVID-19 situa
 
 ![_config.yml]({{ site.baseurl }}/images/DashboardCOVID.png)
 
-or the next one to control the load training of a soccer team
+Or the next one to control the load training of a soccer team
 
 ![_config.yml]({{ site.baseurl }}/images/Dashboard.png)
 
-If you are keen on this kindo of visualizations, yo can visit https://community.rstudio.com/.
+If you are keen on this kind of visualizations, yo can visit https://community.rstudio.com/.
