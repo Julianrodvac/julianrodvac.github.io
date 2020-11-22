@@ -8,7 +8,7 @@ Don´t be hesitate to write me, if you are looking for more information!
 
 ### More Information:
 
-Pleases, contact me if you are looking for more information.
+Please, contact me if you are looking for more information.
 
 ### Contact me:
 
