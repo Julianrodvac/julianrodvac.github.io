@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bienvenido!
+title: You're up and running!
 ---
 
 Este blog ha sido creado partiendo de la plantilla de barryclarck, a quién agradezco su contribución
