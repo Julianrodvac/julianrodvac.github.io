@@ -3,8 +3,14 @@ layout: post
 title: Wellcome
 ---
 
-I´m Julián Rodríguez, automation engineer, and Big Data expert (sports)
+I´m Julián Rodríguez, automation engineer, and Big Data expert (sports).
+
+I´ve made several dashboards with R, such as the following about COVID-19 situaition report in Spain
 
 ![_config.yml]({{ site.baseurl }}/images/DashboardCOVID.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+or the next one to control the load training of a soccer team
+
+![_config.yml]({{ site.baseurl }}/images/Dashboard.png)
+
+If you are keen on this kindo of visualizations, yo can visit https://community.rstudio.com/.
